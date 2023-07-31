@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\lionmarksham\\git\\dotnet\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
+    "D:\\lionmarksham\\git\\dotnet\\AspNetRazorPages\\RazorPagesMovie.csproj": {}
   },
   "projects": {
-    "D:\\lionmarksham\\git\\dotnet\\RazorPagesMovie\\RazorPagesMovie.csproj": {
+    "D:\\lionmarksham\\git\\dotnet\\AspNetRazorPages\\RazorPagesMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\lionmarksham\\git\\dotnet\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "projectUniqueName": "D:\\lionmarksham\\git\\dotnet\\AspNetRazorPages\\RazorPagesMovie.csproj",
         "projectName": "RazorPagesMovie",
-        "projectPath": "D:\\lionmarksham\\git\\dotnet\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "projectPath": "D:\\lionmarksham\\git\\dotnet\\AspNetRazorPages\\RazorPagesMovie.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "D:\\lionmarksham\\git\\dotnet\\RazorPagesMovie\\obj\\",
+        "outputPath": "D:\\lionmarksham\\git\\dotnet\\AspNetRazorPages\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,32 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SQLite": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.8, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
