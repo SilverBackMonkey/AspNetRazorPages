@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\lionmarksham\\git\\dotnet\\AspNetRazorPages\\RazorPagesMovie.csproj": {}
+    "d:\\lionmarksham\\git\\dotnet\\AspNetRazorPages\\RazorPagesMovie.csproj": {}
   },
   "projects": {
-    "D:\\lionmarksham\\git\\dotnet\\AspNetRazorPages\\RazorPagesMovie.csproj": {
+    "d:\\lionmarksham\\git\\dotnet\\AspNetRazorPages\\RazorPagesMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\lionmarksham\\git\\dotnet\\AspNetRazorPages\\RazorPagesMovie.csproj",
+        "projectUniqueName": "d:\\lionmarksham\\git\\dotnet\\AspNetRazorPages\\RazorPagesMovie.csproj",
         "projectName": "RazorPagesMovie",
-        "projectPath": "D:\\lionmarksham\\git\\dotnet\\AspNetRazorPages\\RazorPagesMovie.csproj",
+        "projectPath": "d:\\lionmarksham\\git\\dotnet\\AspNetRazorPages\\RazorPagesMovie.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "D:\\lionmarksham\\git\\dotnet\\AspNetRazorPages\\obj\\",
+        "outputPath": "d:\\lionmarksham\\git\\dotnet\\AspNetRazorPages\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",

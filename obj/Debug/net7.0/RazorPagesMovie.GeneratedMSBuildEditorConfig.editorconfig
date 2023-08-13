@@ -9,57 +9,57 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RazorPagesMovie
 build_property.RootNamespace = RazorPagesMovie
-build_property.ProjectDir = D:\lionmarksham\git\dotnet\AspNetRazorPages\
+build_property.ProjectDir = d:\lionmarksham\git\dotnet\AspNetRazorPages\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\lionmarksham\git\dotnet\AspNetRazorPages
+build_property.MSBuildProjectDirectory = d:\lionmarksham\git\dotnet\AspNetRazorPages
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/lionmarksham/git/dotnet/AspNetRazorPages/Pages/Error.cshtml]
+[d:/lionmarksham/git/dotnet/AspNetRazorPages/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/lionmarksham/git/dotnet/AspNetRazorPages/Pages/Index.cshtml]
+[d:/lionmarksham/git/dotnet/AspNetRazorPages/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/lionmarksham/git/dotnet/AspNetRazorPages/Pages/Movies/Create.cshtml]
+[d:/lionmarksham/git/dotnet/AspNetRazorPages/Pages/Movies/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/lionmarksham/git/dotnet/AspNetRazorPages/Pages/Movies/Delete.cshtml]
+[d:/lionmarksham/git/dotnet/AspNetRazorPages/Pages/Movies/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/lionmarksham/git/dotnet/AspNetRazorPages/Pages/Movies/Details.cshtml]
+[d:/lionmarksham/git/dotnet/AspNetRazorPages/Pages/Movies/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/lionmarksham/git/dotnet/AspNetRazorPages/Pages/Movies/Edit.cshtml]
+[d:/lionmarksham/git/dotnet/AspNetRazorPages/Pages/Movies/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/lionmarksham/git/dotnet/AspNetRazorPages/Pages/Movies/Index.cshtml]
+[d:/lionmarksham/git/dotnet/AspNetRazorPages/Pages/Movies/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/lionmarksham/git/dotnet/AspNetRazorPages/Pages/Privacy.cshtml]
+[d:/lionmarksham/git/dotnet/AspNetRazorPages/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/lionmarksham/git/dotnet/AspNetRazorPages/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[d:/lionmarksham/git/dotnet/AspNetRazorPages/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/lionmarksham/git/dotnet/AspNetRazorPages/Pages/_ViewImports.cshtml]
+[d:/lionmarksham/git/dotnet/AspNetRazorPages/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/lionmarksham/git/dotnet/AspNetRazorPages/Pages/_ViewStart.cshtml]
+[d:/lionmarksham/git/dotnet/AspNetRazorPages/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/lionmarksham/git/dotnet/AspNetRazorPages/Pages/Shared/_Layout.cshtml]
+[d:/lionmarksham/git/dotnet/AspNetRazorPages/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-tg5po7urw9
